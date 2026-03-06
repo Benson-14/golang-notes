@@ -1,0 +1,9 @@
+# PostgreSQL data directory 
+database/
+
+# Go build output
+*.exe
+*.out
+
+# Environment variables 
+.env
